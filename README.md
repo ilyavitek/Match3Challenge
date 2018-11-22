@@ -22,3 +22,4 @@ implemented (for editor and standalone platforms).
 - Audio functional was implemented.
 
 Date of completion: June 26, 2017
+Checked with Unity 2017.4.4f1
